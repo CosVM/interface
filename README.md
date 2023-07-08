@@ -1,18 +1,18 @@
-# Pangolin Interface
+# CosVM Interface
 
-An open source interface for Pangolin -- a community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution -- powered by Avalanche.
+An open source interface for CosVM -- a community-driven decentralized exchange for Cosmos and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution -- powered by Cosvm Network.
 
-- Website: [pangolin.exchange](https://pangolin.exchange/)
-- Interface: [app.pangolin.exchange](https://app.pangolin.exchange)
-- Telegram: [Pangolin](https://t.me/pangolindexV2)
-- Discord: [Pangolin](https://discord.com/invite/pangolindex)
-- Twitter: [@pangolindex](https://twitter.com/pangolindex)
+- Website: [CosVM DEX](https://dexholder.com/)
+- Interface: [CosVM App](https://cosvm.app)
+- Telegram: [CosVM](https://t.me/cosvm)
+- Discord: [CosVM](https://discord.com/invite/cosvm)
+- Twitter: [@CosVMdex](https://twitter.com/cosvm)
 
 
 
-## Accessing the Pangolin Interface
+## Accessing the CosVM Interface
 
-Visit [app.pangolin.exchange](https://app.pangolin.exchange).
+Visit [cosvm.app](https://cosvm.app).
 
 ## Development
 
@@ -36,7 +36,7 @@ To have the interface default to a different network when a wallet is not connec
 1. Make a copy of `.env.sample` named `.env`
 
 Note that the interface only works on testnets where both 
-[Pangolin](https://github.com/pangolindex/exchange-contracts) and 
+[CosVM](https://github.com/CosVMdex/exchange-contracts) and 
 [multicall](https://github.com/makerdao/multicall) are deployed.
 The interface will not work on other networks.
 
