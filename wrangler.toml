@@ -1,6 +1,6 @@
-name = "pangolin-app-temp"
+name = "cosvm-app"
 type = "javascript"
-route = "app.pangolin.exchange/*"
+route = "cosvm.app/*"
 
 [site]
 bucket = "./build"
